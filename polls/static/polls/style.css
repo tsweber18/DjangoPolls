@@ -1,7 +1,14 @@
 body {
-    background: white url("images/background.jpg") no-repeat right bottom;
+    background: white url("images/background.jpg") no-repeat center bottom;
+    background-color: DarkGrey;
+    color: Crimson;
 }
 
 li a {
-    color: green;
+    color: Crimson;
+}
+
+h1 {
+    color: Crimson;
+    text-align: center;
 }
